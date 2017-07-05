@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $(".page").hide().fadeIn(700);
+  $(".page").html("Hello!");
 });
