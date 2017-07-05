@@ -1,4 +1,3 @@
 $(document).ready(function(){
-  $(".page").fadein(200);
+  $(".page").fadeIn(200);
 });
-
