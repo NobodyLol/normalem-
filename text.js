@@ -1,1 +1,4 @@
-$("body").fadein(200);
+$(document).ready(function(){
+  $(".page").fadein(200);
+});
+
