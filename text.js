@@ -1,3 +1,5 @@
 $(document).ready(function(){
-  $(".page").html("Hello!");
+  words = $("body").html();
+
+  alert(words);
 });
